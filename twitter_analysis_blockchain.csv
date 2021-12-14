@@ -1,0 +1,963 @@
+Company,SocialNetwork,SenderScreenName,Sender Followers Count,MessageType,Retweets,Favorites,Sentiment,Country
+PWC,TWITTER,ThinkSportCH,2384,Twitter Mention,0,0,NEUTRAL,Switzerland
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,wisepiracy,126,Twitter Reply,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,LatestcryptoN,331,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,XinfinWarrior,3925,Twitter Reply,1,2,NEUTRAL,United Kingdom
+PWC,TWITTER,Shavetup,131,Twitter Reply,0,0,NEUTRAL,Australia
+Deloitte,TWITTER,wisepiracy,126,Twitter Reply,0,0,POSITIVE,United Kingdom
+Deloitte,TWITTER,wisepiracy,126,Twitter Reply,0,0,NEUTRAL,United Kingdom
+PWC,TWITTER,salerno_luis,1148,Twitter Update,0,0,NEUTRAL,Luxembourg
+EY,TWITTER,UAWalton_BCOE,338,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,NEUTRAL,Lebanon
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,NEUTRAL,Lebanon
+EY,TWITTER,ybchri_,1364,Twitter Update,1,1,NEUTRAL,United States
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,NEUTRAL,Lebanon
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,NEUTRAL,Lebanon
+EY,TWITTER,landswapfinance,285,Twitter Mention,0,0,NEUTRAL,Germany
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,NEUTRAL,Lebanon
+EY,TWITTER,UAWalton_BCOE,338,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,hansthered,15282,Twitter Update,0,0,NEUTRAL,Ivory Coast
+PWC,TWITTER,ErlangSolutions,10880,Twitter Mention,2,0,NEUTRAL,United Kingdom
+EY,TWITTER,jwolpert,22102,Twitter Mention,33,112,NEUTRAL,United States
+EY,TWITTER,peterlangela,1220,Twitter Update,0,0,NEUTRAL,Netherlands
+EY,TWITTER,ZiyenInc,795,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,blockchainedind,2446,Twitter Mention,0,0,NEUTRAL,India
+EY,TWITTER,MaryAprilAlfor1,299,Twitter Reply,0,0,POSITIVE,Philippines
+EY,TWITTER,sygnumofficial,7675,Twitter Update,0,0,NEUTRAL,Switzerland
+EY,TWITTER,NuZuDu,652,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,FortWayneMusic_,148,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,DeloitteCY,908,Twitter Update,0,0,NEUTRAL,Cyprus
+EY,TWITTER,Ganeshr93132626,114,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,jeremyparkeraim,453,Twitter Update,0,0,POSITIVE,United Kingdom
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,garypalmerjr,5914,Twitter Mention,0,0,NEUTRAL,Armenia
+EY,TWITTER,BRTcrpt,543,Twitter Update,0,0,NEUTRAL,Denmark
+EY,TWITTER,BitcuriousINDIA,154,Twitter Update,1,0,NEUTRAL,India
+EY,TWITTER,WikiriseCom,202,Twitter Update,0,0,NEUTRAL,Nigeria
+EY,TWITTER,Goldtrader14,110,Twitter Mention,0,1,POSITIVE,El Salvador
+EY,TWITTER,OnChainAlex,619,Twitter Mention,19,67,NEUTRAL,Comoros
+EY,TWITTER,kanaba007,3011,Twitter Update,1,1,NEUTRAL,New Caledonia
+EY,TWITTER,nowonbitcoin,4293,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,idapandur,4209,Twitter Mention,0,0,POSITIVE,Croatia
+EY,TWITTER,MrSlimRed,1640,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,ThePakuma,6099,Twitter Update,0,0,NEUTRAL,Ghana
+EY,TWITTER,webnowcompany,5876,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,AssetOpk,147,Twitter Update,0,0,NEUTRAL,Switzerland
+EY,TWITTER,JDHyper,144,Twitter Mention,0,0,POSITIVE,United States
+EY,TWITTER,dumbwire,29104,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,Ucee_Emmanuel,296,Twitter Reply,0,0,POSITIVE,Nigeria
+EY,TWITTER,GalaxyFinance_1,205,Twitter Reply,0,0,NEUTRAL,United States
+EY,TWITTER,JulietaSaylor,1104296,Twitter Reply,0,0,NEUTRAL,United States
+EY,TWITTER,CryptoDiffer,227260,Twitter Mention,18,107,NEUTRAL,Estonia
+EY,TWITTER,JordiMorris1,1065,Twitter Update,0,0,NEUTRAL,Spain
+KPMG,TWITTER,hiwaytoserfdom,90,Twitter Mention,1,0,NEUTRAL,India
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,SeketAanru,1505,Twitter Update,0,0,NEUTRAL,Comoros
+EY,TWITTER,0xCOINDivine,292,Twitter Reply,0,0,NEUTRAL,India
+EY,TWITTER,CryptoBuzz_Blog,674,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,Morningstar_vc,25175,Twitter Mention,30,190,POSITIVE,United Arab Emirates
+EY,TWITTER,BlaqPips,245,Twitter Update,1,1,NEUTRAL,Mexico
+KPMG,TWITTER,Nogoodtwts,2876,Twitter Reply,0,0,NEUTRAL,United States
+EY,TWITTER,SmartMarketCode,2460,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,dwdrum,172,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,NewMobilities,2143,Twitter Update,1,0,NEUTRAL,France
+EY,TWITTER,evectis,582,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,nowonbitcoin,4293,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,b5c0a226e7fe44f,170,Twitter Reply,0,0,NEUTRAL,India
+EY,TWITTER,cryptopump01,133,Twitter Reply,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,CGF_Godfather,375,Twitter Update,0,0,NEUTRAL,Thailand
+EY,TWITTER,thetokenist,1190,Twitter Update,0,0,NEUTRAL,France
+EY,TWITTER,cryptomike2k,354,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,highrewardcoin,903,Twitter Update,2,0,NEUTRAL,United Kingdom
+EY,TWITTER,nyan_lou618,131,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,LatestcryptoN,331,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,dumbwire,29104,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,cbnewswire,913,Twitter Update,6,14,NEUTRAL,United States
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,POSITIVE,Lebanon
+EY,TWITTER,CryptoObn,3143,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,StephenStonking,665,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,xcelcoin,213,Twitter Update,0,0,NEUTRAL,Nigeria
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,NEUTRAL,Lebanon
+EY,TWITTER,coolnerdco,2004,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,FinTechScotland,4187,Twitter Mention,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,NEGATIVE,Lebanon
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,POSITIVE,Lebanon
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,CriptoNerds,1047,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,nerdlify,390,Twitter Update,0,0,NEUTRAL,Zimbabwe
+EY,TWITTER,DevereWealth,3910,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,cryptonewsmone1,488,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,LatestcryptoN,331,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,BCpresence,408,Twitter Reply,0,0,NEUTRAL,Switzerland
+EY,TWITTER,BCpresence,408,Twitter Reply,0,0,POSITIVE,Switzerland
+EY,TWITTER,BCpresence,408,Twitter Update,0,0,NEUTRAL,Switzerland
+EY,TWITTER,financelygroup,347,Twitter Update,0,0,NEUTRAL,Ireland
+EY,TWITTER,dumbwire,29104,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,CryptoSlate,19169,Twitter Mention,4,6,NEUTRAL,United Kingdom
+EY,TWITTER,plimantour,724,Twitter Mention,0,0,NEUTRAL,France
+EY,TWITTER,jemarkable,164,Twitter Update,0,0,NEUTRAL,Philippines
+EY,TWITTER,Alxz83,114,Twitter Update,17,57,NEUTRAL,Sweden
+EY,TWITTER,MemesPolygon,621,Twitter Mention,40,194,NEUTRAL,United States
+EY,TWITTER,davidpremier,174,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,curiousmalte,233,Twitter Update,0,0,NEUTRAL,United Kingdom
+PWC,TWITTER,capitalist_sd,7597,Twitter Update,85,321,NEUTRAL,Indonesia
+Deloitte,TWITTER,capitalist_sd,7597,Twitter Update,85,321,NEUTRAL,Indonesia
+EY,TWITTER,JeacelSoriben,262,Twitter Reply,0,0,POSITIVE,Democratic Republic of the Congo
+EY,TWITTER,MontieroSophie,184,Twitter Reply,0,0,NEUTRAL,Democratic Republic of the Congo
+EY,TWITTER,ravikantagrawal,136,Twitter Update,0,0,POSITIVE,India
+EY,TWITTER,garypalmerjr,5914,Twitter Mention,0,0,NEUTRAL,Armenia
+EY,TWITTER,MaryAprilAlfor1,299,Twitter Reply,0,0,POSITIVE,Philippines
+EY,TWITTER,sriharikapu,1365,Twitter Update,0,0,NEUTRAL,Malaysia
+EY,TWITTER,KapaganKhan,211,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,S_Edalati,2288,Twitter Update,0,0,NEUTRAL,Canada
+EY,TWITTER,bitcointe,1492,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,cryptotrading51,1043,Twitter Update,0,0,NEUTRAL,Hong Kong
+EY,TWITTER,JackASanderson,115,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,cjannzincacal,319,Twitter Reply,0,0,POSITIVE,Philippines
+EY,TWITTER,afreeman78,137,Twitter Reply,0,0,NEUTRAL,United States
+EY,TWITTER,cryptoangel888,1384,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,ImTheDebate,16002,Twitter Mention,1,1,NEUTRAL,United States
+EY,TWITTER,Manga7881,350,Twitter Update,0,0,NEUTRAL,Italy
+EY,TWITTER,SuddenlySatoshi,2169,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,werdchenellia,132,Twitter Reply,0,0,NEUTRAL,France
+EY,TWITTER,khamzah22,2113,Twitter Mention,9,34,POSITIVE,United States
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,Cointelegraph,1212813,Twitter Update,14,57,NEUTRAL,United States
+EY,TWITTER,zjdolan,3060,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,Forkast_News,11437,Twitter Mention,8,44,NEUTRAL,Hong Kong
+EY,TWITTER,TrustologyIO,1307,Twitter Mention,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,GoodCorgi,892,Twitter Reply,0,0,NEUTRAL,Lebanon
+EY,TWITTER,CrweWorld,910,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,WeissCrypto,30673,Twitter Reply,0,0,NEUTRAL,United States
+EY,TWITTER,WeissCrypto,30673,Twitter Update,3,17,NEUTRAL,United States
+EY,TWITTER,Abhinav18755615,2791,Twitter Update,2,6,NEUTRAL,United Kingdom
+EY,TWITTER,JGriesler,380,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,Alis0025,283,Twitter Update,0,0,NEUTRAL,Germany
+EY,TWITTER,satoshivideos,772,Twitter Reply,0,0,NEUTRAL,United States
+EY,TWITTER,eth2,3914,Twitter Mention,153,674,NEUTRAL,United States
+EY,TWITTER,crypto__mak,11265,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,Crypto88888,186,Twitter Update,0,0,POSITIVE,United States
+EY,TWITTER,gridplus,8639,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,dumbwire,29104,Twitter Update,0,0,POSITIVE,United States
+EY,TWITTER,FeursteinP2P,7712,Twitter Update,0,0,POSITIVE,Austria
+EY,TWITTER,GravityX_Cap,124,Twitter Reply,0,0,NEUTRAL,United Arab Emirates
+EY,TWITTER,ZachMiltz,387,Twitter Mention,1,4,NEUTRAL,United States
+EY,TWITTER,MindfrozenT,585,Twitter Update,0,0,NEUTRAL,Canada
+EY,TWITTER,sarang143u,559,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,prosmoon,3122,Twitter Update,1,2,NEUTRAL,United Kingdom
+EY,TWITTER,ravikantagrawal,136,Twitter Update,0,0,POSITIVE,India
+EY,TWITTER,DevereWealth,3910,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,S_Edalati,2287,Twitter Update,0,0,NEUTRAL,Canada
+EY,TWITTER,tron_age,7033,Twitter Update,1,1,NEUTRAL,United States
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,POSITIVE,Lebanon
+EY,TWITTER,financelygroup,347,Twitter Update,0,0,NEUTRAL,Ireland
+EY,TWITTER,Exmo_Com,16714,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,AssetOpk,147,Twitter Update,0,0,NEUTRAL,Switzerland
+EY,TWITTER,kyleellicott,5703,Twitter Mention,0,0,NEUTRAL,Uganda
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,0,0,POSITIVE,Lebanon
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,financelygroup,347,Twitter Update,0,0,NEUTRAL,Ireland
+EY,TWITTER,sarang143u,559,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,coinsferaglobal,1184,Twitter Update,0,0,NEUTRAL,Turkey
+EY,TWITTER,SoheilSBabaei,691,Twitter Mention,0,0,NEUTRAL,Iran
+EY,TWITTER,kaprowykropt,1090,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,arrowsmith,405,Twitter Update,0,0,NEUTRAL,Canada
+EY,TWITTER,charlestonbotcp,511,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,docmentillo,14213,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,dumbwire,29104,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,AnujChaudhary25,151,Twitter Reply,0,0,NEUTRAL,India
+EY,TWITTER,AnujChaudhary25,151,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,jigneshon,1455,Twitter Reply,0,0,POSITIVE,India
+EY,TWITTER,jigneshon,1455,Twitter Mention,0,0,NEUTRAL,India
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,jwolpert,22102,Twitter Reply,1,0,NEGATIVE,United States
+EY,TWITTER,TrendsWide,689,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,AiThority,5884,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,beincrypto,24698,Twitter Mention,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,Cointelegraph,1212813,Twitter Update,22,76,NEUTRAL,United States
+PWC,TWITTER,djatlantic,635,Twitter Reply,0,0,NEGATIVE,United States
+EY,TWITTER,sriharikapu,1365,Twitter Update,0,0,NEUTRAL,Malaysia
+PWC,TWITTER,djatlantic,635,Twitter Reply,1,1,NEUTRAL,United States
+PWC,TWITTER,djatlantic,635,Twitter Reply,0,0,NEGATIVE,United States
+EY,TWITTER,Distorted_App,722,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,_blackventures,4727,Twitter Mention,0,0,POSITIVE,Brazil
+EY,TWITTER,sandeepnailwal,91387,Twitter Mention,39,218,NEUTRAL,India
+EY,TWITTER,DresDes1gn,802,Twitter Reply,3,17,NEUTRAL,United States
+EY,TWITTER,Cassiopeia_ltd,1114,Twitter Mention,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,btc_manager,63361,Twitter Update,3,4,NEUTRAL,United Kingdom
+EY,TWITTER,aduignancabrera,7208,Twitter Mention,0,0,NEUTRAL,Ireland
+EY,TWITTER,MTCRYPTOCLUB,110,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,roomtempwateryh,1128,Twitter Reply,4,42,POSITIVE,Lebanon
+EY,TWITTER,MatthewLINY,12292,Twitter Update,0,0,NEUTRAL,Angola
+PWC,TWITTER,PwC_KE,39674,Twitter Update,0,1,NEUTRAL,Kenya
+EY,TWITTER,NFTcrapshoot,253,Twitter Mention,0,0,NEUTRAL,Australia
+EY,TWITTER,ike30044,709,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,adizjapalmer,594,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,nowonbitcoin,4293,Twitter Update,1,0,NEUTRAL,United Kingdom
+PWC,TWITTER,The3D_,9611,Twitter Reply,0,0,NEGATIVE,Switzerland
+EY,TWITTER,TeviLawson13,182,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,InvezzPortal,1806,Twitter Update,1,0,NEUTRAL,United Kingdom
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,chain_bulletin,10999,Twitter Mention,0,0,NEUTRAL,Bulgaria
+EY,TWITTER,scott_Andrew2,564,Twitter Reply,0,0,NEUTRAL,Canada
+EY,TWITTER,DeniSkrinnikov,2013,Twitter Update,0,0,NEUTRAL,Belarus
+EY,TWITTER,bizgram,2675,Twitter Update,1,0,NEUTRAL,Peru
+EY,TWITTER,LatestcryptoN,331,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,tron_age,7033,Twitter Update,1,1,NEUTRAL,United States
+EY,TWITTER,Blockchain_exp,2566,Twitter Mention,1,0,NEUTRAL,United States
+EY,TWITTER,cryptoXtract,119,Twitter Update,0,0,NEGATIVE,North Korea
+EY,TWITTER,JRBuckley68,8156,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,pbrody,9289,Twitter Update,6,25,NEUTRAL,United States
+EY,TWITTER,cryptotothemoo1,2269,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,CryptoCompare,30825,Twitter Mention,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,webnowcompany,5876,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,beejorn,950,Twitter Update,1,3,NEUTRAL,Iceland
+EY,TWITTER,CriptoNerds,1047,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,DerekTMcKinney,10394,Twitter Update,0,0,NEUTRAL,Bosnia and Herzegovina
+EY,TWITTER,BitcoinSergio,28613,Twitter Update,0,0,NEUTRAL,Spain
+EY,TWITTER,BRTcrpt,543,Twitter Mention,0,0,NEUTRAL,Denmark
+EY,TWITTER,enygmatic_in,420,Twitter Reply,0,0,POSITIVE,India
+EY,TWITTER,T_PakistanPost,1291,Twitter Update,0,0,NEUTRAL,Pakistan
+EY,TWITTER,KVanderhoydonk,22008,Twitter Update,0,0,NEUTRAL,Belgium
+EY,TWITTER,fintechf,24866,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,LatestcryptoN,331,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,S_Edalati,2287,Twitter Update,0,0,NEUTRAL,Canada
+EY,TWITTER,BlockTribune,2748,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,CryptoAmb,33701,Twitter Update,1,4,NEUTRAL,India
+EY,TWITTER,WuBlockchain,122007,Twitter Update,35,140,NEUTRAL,Iran
+EY,TWITTER,Forkast_News,11437,Twitter Update,0,3,NEUTRAL,Hong Kong
+EY,TWITTER,taypeinternat,815,Twitter Update,0,0,NEUTRAL,Canada
+EY,TWITTER,foolsbookie,1155,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,CryptoHubIND,542,Twitter Mention,1,1,NEUTRAL,India
+EY,TWITTER,Nairametrics,100789,Twitter Update,1,0,NEUTRAL,Nigeria
+EY,TWITTER,ikartikmakwana,740,Twitter Mention,0,0,NEUTRAL,New Zealand
+EY,TWITTER,crypto__mak,11265,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,Veki551155,1453,Twitter Mention,0,0,NEUTRAL,France
+EY,TWITTER,2v9uaBOI8nPeyoz,184,Twitter Update,0,0,NEUTRAL,Japan
+EY,TWITTER,BitValley,701,Twitter Update,0,0,NEUTRAL,Comoros
+EY,TWITTER,GCI_online,114,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,nowonbitcoin,4293,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,Cointelegraph,1212813,Twitter Update,42,120,NEUTRAL,United States
+EY,TWITTER,BitcoinSuisseAG,10783,Twitter Update,1,0,NEUTRAL,Switzerland
+EY,TWITTER,highrewardcoin,903,Twitter Update,2,0,NEUTRAL,United Kingdom
+EY,TWITTER,senitih,510,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,Airgeadais,183,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,BluAngelMerri,2601,Twitter Mention,3,3,NEUTRAL,India
+EY,TWITTER,cryptotothemoo1,2269,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,Rohit_Ideas,11771,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,finngodsnft,144,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,AssetOpk,147,Twitter Update,0,0,NEUTRAL,Switzerland
+EY,TWITTER,iftikharpost,4192,Twitter Mention,124,446,NEUTRAL,Australia
+EY,TWITTER,BruceLuy,429,Twitter Reply,2,9,NEUTRAL,Singapore
+EY,TWITTER,SuzannePamelaW1,161,Twitter Update,0,0,NEUTRAL,Greece
+EY,TWITTER,sarang143u,559,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,CryptoAyor,2618,Twitter Update,0,0,NEUTRAL,Italy
+EY,TWITTER,seowboiboi,181,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,webnowcompany,5876,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,nowonbitcoin,4293,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,denniscecconet,1170,Twitter Update,0,0,NEUTRAL,Canada
+EY,TWITTER,schnaars,2841,Twitter Update,0,0,NEGATIVE,United States
+EY,TWITTER,MarvinSteinberg,2277,Twitter Update,0,0,NEUTRAL,Germany
+EY,TWITTER,FernARobledo,258,Twitter Update,0,0,NEUTRAL,Philippines
+EY,TWITTER,EthereumKnox,3868,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,cryptola44b,360,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,putonescene,162,Twitter Mention,0,0,NEUTRAL,India
+EY,TWITTER,BTCstJournal,10769,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,AltcoinDailyio,517071,Twitter Update,167,1629,NEUTRAL,United States
+EY,TWITTER,BtcInvestments_,2824,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,gzunigah,582,Twitter Update,0,0,NEUTRAL,Costa Rica
+EY,TWITTER,chaincraft_cc,389,Twitter Update,0,0,NEUTRAL,Austria
+EY,TWITTER,Crypto88888,186,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,cryptokenya2,1121,Twitter Update,0,0,NEUTRAL,Kenya
+EY,TWITTER,LatestcryptoN,331,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,hs47641,288,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,Ganeshr93132626,114,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,PastoryJoshua,118,Twitter Update,0,0,NEUTRAL,Tanzania
+EY,TWITTER,ronmc1,18861,Twitter Update,0,0,NEUTRAL,Canada
+EY,TWITTER,nf4mation,35483,Twitter Update,0,0,NEUTRAL,Seychelles
+EY,TWITTER,AmanKalra_,995,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,BTCstJournal,10769,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,CryptofactsON,186,Twitter Update,3,4,NEUTRAL,United Kingdom
+EY,TWITTER,blockchainedind,2446,Twitter Reply,0,0,NEUTRAL,India
+EY,TWITTER,BTCstJournal,10769,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,CryptoMakerBtc,941,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,CryptoNews_21,39954,Twitter Update,1,0,NEUTRAL,United Kingdom
+EY,TWITTER,newscryptobtc,402,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,SamRusani,54874,Twitter Mention,3,6,POSITIVE,United States
+EY,TWITTER,davidpremier,174,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,highrewardcoin,903,Twitter Update,2,0,NEUTRAL,United Kingdom
+EY,TWITTER,cryptonewsmone1,488,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,frantisekjuris,146,Twitter Update,0,0,NEUTRAL,Czech Republic
+EY,TWITTER,kultejas18,1292,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,georgelevy,4880,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,LatestcryptoN,331,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,emmanuel4u,1010,Twitter Update,1,0,NEUTRAL,India
+EY,TWITTER,blockchainitaly,338,Twitter Update,0,0,NEUTRAL,Italy
+EY,TWITTER,Juchtervbergen,1788,Twitter Update,0,0,NEUTRAL,Netherlands
+EY,TWITTER,dumbwire,29104,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,cryptotechshow,33984,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,KingTriZi,519,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,MunehisaHonma,777,Twitter Update,0,0,NEUTRAL,Japan
+EY,TWITTER,sriharikapu,1365,Twitter Update,0,0,NEUTRAL,Malaysia
+EY,TWITTER,formudassir,166,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,blakeswineford,128,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,Cointelegraph,1212813,Twitter Update,29,98,NEUTRAL,United States
+EY,TWITTER,FeursteinP2P,7712,Twitter Update,0,0,NEUTRAL,Austria
+EY,TWITTER,CryptScoutNews,1433,Twitter Update,0,0,NEUTRAL,United Kingdom
+PWC,TWITTER,theone20205,631,Twitter Reply,0,0,NEUTRAL,Comoros
+EY,TWITTER,inquisitivekath,1609,Twitter Update,1,9,NEUTRAL,Japan
+EY,TWITTER,Cryptymaria,5144,Twitter Reply,0,0,NEUTRAL,United States
+EY,TWITTER,davidcrais,1062,Twitter Mention,0,0,NEUTRAL,Italy
+EY,TWITTER,CryptoBuzz_Blog,674,Twitter Update,1,1,NEUTRAL,United Kingdom
+EY,TWITTER,CoinDesk,2002799,Twitter Mention,219,835,NEUTRAL,United States
+EY,TWITTER,L_Raaj,280,Twitter Update,0,0,NEUTRAL,Malaysia
+EY,TWITTER,SuddenlySatoshi,2169,Twitter Update,1,0,NEUTRAL,United Kingdom
+EY,TWITTER,feed_stocks,3352,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,Danny_Bitcoin,1905,Twitter Mention,5,7,NEUTRAL,United States
+Deloitte,TWITTER,imanthonybaxter,122,Twitter Update,1,2,POSITIVE,New Zealand
+PWC,TWITTER,VechainW,4879,Twitter Reply,0,0,NEUTRAL,Belgium
+PWC,TWITTER,Danny_Bitcoin,1905,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,BitcoinSayWhaat,122,Twitter Update,2,3,NEUTRAL,United States
+EY,TWITTER,CoinDesk,2002799,Twitter Mention,19,59,NEUTRAL,United States
+Deloitte,TWITTER,andygoodman,451,Twitter Update,1,0,NEUTRAL,United Kingdom
+EY,TWITTER,Naturalmed777,10247,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,tthompson1000,256,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,faujian35,171,Twitter Update,0,0,NEUTRAL,Bangladesh
+Deloitte,TWITTER,RemiPromotes,77224,Twitter Update,121,50,NEUTRAL,Philippines
+EY,TWITTER,pbrody,9289,Twitter Update,1,0,NEUTRAL,United States
+PWC,TWITTER,JordyMin,445,Twitter Reply,0,0,NEUTRAL,Belgium
+Deloitte,TWITTER,JordyMin,445,Twitter Reply,0,0,NEUTRAL,Belgium
+Deloitte,TWITTER,cristinaferraz,810,Twitter Mention,0,1,NEUTRAL,Spain
+EY,TWITTER,jaylikesbitcoin,1008,Twitter Reply,0,0,NEUTRAL,Australia
+EY,TWITTER,eth_atl,430,Twitter Mention,60,154,POSITIVE,United States
+EY,TWITTER,itsGenieve,1291,Twitter Mention,0,0,NEUTRAL,Philippines
+KPMG,TWITTER,NewCryptocurre1,78,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,felgives,40220,Twitter Update,120,36,NEUTRAL,Togo
+Deloitte,TWITTER,virage007,191,Twitter Update,1,12,NEUTRAL,New Zealand
+PWC,TWITTER,_MTAUS,1313,Twitter Update,10,81,NEUTRAL,Australia
+PWC,TWITTER,etherx8092,675,Twitter Reply,0,0,NEGATIVE,United Kingdom
+PWC,TWITTER,pathway2wisdom,104,Twitter Reply,4,7,NEUTRAL,United States
+PWC,TWITTER,pathway2wisdom,104,Twitter Update,5,13,NEUTRAL,United States
+PWC,TWITTER,DKCC831,559,Twitter Reply,0,0,POSITIVE,South Korea
+Deloitte,TWITTER,DKCC831,559,Twitter Reply,0,0,POSITIVE,South Korea
+Deloitte,TWITTER,SingingInDCloud,10010,Twitter Mention,4,2,NEUTRAL,United States
+KPMG,TWITTER,Lago72,11008,Twitter Mention,0,0,NEUTRAL,Italy
+Deloitte,TWITTER,BigDataNova,369,Twitter Update,2,1,NEUTRAL,United States
+PWC,TWITTER,Joynab12,2058,Twitter Mention,0,0,POSITIVE,India
+PWC,TWITTER,Afrin1722,2447,Twitter Update,0,0,NEUTRAL,Bangladesh
+PWC,TWITTER,MedicalQuack,9109,Twitter Update,0,0,POSITIVE,United States
+KPMG,TWITTER,Quant_111,4135,Twitter Reply,0,0,NEUTRAL,Estonia
+Deloitte,TWITTER,Quant_111,4136,Twitter Reply,0,0,NEUTRAL,Estonia
+EY,TWITTER,ValerieKonzeoue,324,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,buysats,1179,Twitter Reply,0,0,POSITIVE,United Kingdom
+Deloitte,TWITTER,promotionfairy,59420,Twitter Update,108,81,NEUTRAL,United States
+EY,TWITTER,NagatoDharma,11472,Twitter Update,2,9,POSITIVE,Greece
+Deloitte,TWITTER,PiperAlderman,2677,Twitter Update,2,1,NEUTRAL,Australia
+KPMG,TWITTER,mikemadura,11851,Twitter Mention,0,0,NEUTRAL,United States
+KPMG,TWITTER,KPMGUS_News,3966,Twitter Mention,1,0,NEUTRAL,United States
+KPMG,TWITTER,MassChallengeFT,1029,Twitter Mention,1,0,NEUTRAL,United States
+PWC,TWITTER,thekingdom,2279,Twitter Mention,4,5,NEUTRAL,United States
+PWC,TWITTER,csillazsigri,335,Twitter Mention,0,0,NEUTRAL,Spain
+Deloitte,TWITTER,tiagorrdias,1281,Twitter Update,0,0,NEUTRAL,Portugal
+PWC,TWITTER,mrsssully14,745,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,davidpremier,174,Twitter Update,0,0,NEUTRAL,India
+KPMG,TWITTER,KPMGEastAfrica,10586,Twitter Mention,2,1,NEUTRAL,South Africa
+Deloitte,TWITTER,PlatinumCrypto,6289,Twitter Update,3,3,NEUTRAL,United Kingdom
+EY,TWITTER,pbrody,9289,Twitter Update,2,0,NEUTRAL,United States
+PWC,TWITTER,anand_narang,10251,Twitter Mention,7,7,NEUTRAL,India
+EY,TWITTER,Bitcoin_Win,11878,Twitter Update,0,0,NEUTRAL,Japan
+EY,TWITTER,frankmottek,5431,Twitter Mention,2,3,NEUTRAL,United States
+PWC,TWITTER,VechainW,4879,Twitter Mention,1,3,NEUTRAL,Belgium
+Deloitte,TWITTER,rachellerfav,575,Twitter Update,0,0,NEGATIVE,United States
+Deloitte,TWITTER,AchimLittlepage,599,Twitter Update,4,22,NEUTRAL,United States
+Deloitte,TWITTER,retheauditors,29152,Twitter Update,12,36,NEUTRAL,United States
+Deloitte,TWITTER,DigitalDaveM,1043,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Chris_Skinner,53594,Twitter Update,4,6,NEUTRAL,United States
+KPMG,TWITTER,robbreakiron,84,Twitter Mention,0,0,NEUTRAL,United States
+PWC,TWITTER,RalenArcNFT,2739,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Peretimifar,155,Twitter Reply,0,0,NEUTRAL,United States
+KPMG,TWITTER,mikemadura,11851,Twitter Mention,0,0,NEUTRAL,United States
+KPMG,TWITTER,TerracinaMike,22,Twitter Mention,0,0,NEUTRAL,United States
+KPMG,TWITTER,KPMGUS_News,3966,Twitter Mention,8,30,NEUTRAL,United States
+PWC,TWITTER,thekingdom,2279,Twitter Mention,3,4,NEUTRAL,United States
+PWC,TWITTER,BitcoinSpike,466,Twitter Mention,3,4,NEUTRAL,United States
+Deloitte,TWITTER,MarketClub,2310,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,jonathanboyd,2104,Twitter Update,0,0,NEUTRAL,United Kingdom
+KPMG,TWITTER,dubeysaurabh,406,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,CryptoYan,38628,Twitter Update,68,21,NEUTRAL,Gabon
+PWC,TWITTER,RaymundChao,620,Twitter Mention,52,335,POSITIVE,Hong Kong
+EY,TWITTER,pbrody,9289,Twitter Update,4,2,NEUTRAL,United States
+EY,TWITTER,AlanFreestone,2530,Twitter Reply,0,0,NEGATIVE,United Kingdom
+Deloitte,TWITTER,algo__trader,703,Twitter Mention,0,0,NEUTRAL,Switzerland
+PWC,TWITTER,stmart00,1454,Twitter Update,14,104,NEUTRAL,United Kingdom
+Deloitte,TWITTER,daviddoughty,70715,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,daviddoughty,70715,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,LeoCynosure,803,Twitter Mention,0,0,NEUTRAL,Singapore
+KPMG,TWITTER,ChainCouncil,2093,Twitter Reply,0,0,NEUTRAL,United States
+PWC,TWITTER,capitalist_sd,7597,Twitter Update,25,116,POSITIVE,Indonesia
+PWC,TWITTER,LudoDidymus,203,Twitter Update,0,0,NEUTRAL,Australia
+KPMG,TWITTER,Golfpreneur54,1092,Twitter Mention,0,0,NEUTRAL,South Africa
+PWC,TWITTER,ntbiotech,557,Twitter Reply,0,0,NEUTRAL,United States
+PWC,TWITTER,Danny_Bitcoin,1905,Twitter Reply,1,2,NEUTRAL,United States
+Deloitte,TWITTER,Danny_Bitcoin,1905,Twitter Reply,1,2,NEUTRAL,United States
+EY,TWITTER,werdchenellia,132,Twitter Mention,1,1,NEUTRAL,United States
+KPMG,TWITTER,werdchenellia,132,Twitter Mention,1,1,NEUTRAL,United States
+PWC,TWITTER,werdchenellia,132,Twitter Mention,1,1,NEUTRAL,United States
+Deloitte,TWITTER,werdchenellia,132,Twitter Mention,1,1,NEUTRAL,United States
+PWC,TWITTER,eisenreich,19471,Twitter Update,67,359,POSITIVE,United States
+PWC,TWITTER,AcomathorDave,105,Twitter Update,2,4,NEUTRAL,United States
+PWC,TWITTER,CreatingValuab1,572,Twitter Update,0,0,NEUTRAL,Tonga
+Deloitte,TWITTER,LindaGrass0,107239,Twitter Mention,13,57,NEUTRAL,Italy
+PWC,TWITTER,AcomathorDave,105,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,AssetConductor,2048,Twitter Update,0,0,POSITIVE,Estonia
+PWC,TWITTER,CheekyCrypto,8786,Twitter Update,4,37,POSITIVE,United Kingdom
+PWC,TWITTER,WeFlyin1,602,Twitter Update,5,43,NEUTRAL,United States
+PWC,TWITTER,StockConquer,119,Twitter Update,2,15,NEUTRAL,United States
+PWC,TWITTER,VechainW,4879,Twitter Mention,19,138,NEUTRAL,Belgium
+PWC,TWITTER,xrpHodler17,120,Twitter Update,2,1,POSITIVE,United Kingdom
+PWC,TWITTER,ThorHoejer,603,Twitter Update,2,16,NEUTRAL,North Korea
+PWC,TWITTER,entertheroach,442,Twitter Reply,2,4,NEUTRAL,United Kingdom
+PWC,TWITTER,EdwardStencil,1289,Twitter Mention,1,5,NEUTRAL,United States
+EY,TWITTER,EthfinanceR,2318,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,PeterZh47977516,17322,Twitter Update,188,869,NEUTRAL,China
+Deloitte,TWITTER,asiancryptogirl,274,Twitter Mention,0,0,POSITIVE,United States
+KPMG,TWITTER,Quant_111,4135,Twitter Reply,1,6,NEUTRAL,Estonia
+Deloitte,TWITTER,Quant_111,4136,Twitter Reply,1,6,NEUTRAL,Estonia
+PWC,TWITTER,CenkBabaeren,23634,Twitter Update,1,15,NEUTRAL,Turkey
+Deloitte,TWITTER,BillonGroup,744,Twitter Mention,0,0,NEUTRAL,United Kingdom
+PWC,TWITTER,McToshiBerry,153,Twitter Update,1,0,NEUTRAL,Mauritania
+PWC,TWITTER,Remko98713904,723,Twitter Update,0,0,NEUTRAL,Germany
+PWC,TWITTER,GatsiosT,1193,Twitter Update,6,46,NEUTRAL,Estonia
+PWC,TWITTER,CryptoNCoffeee,5462,Twitter Update,1,6,NEUTRAL,United States
+PWC,TWITTER,bitcoinride,38713,Twitter Update,2,7,NEUTRAL,India
+PWC,TWITTER,felixbe54584201,435,Twitter Update,1,1,NEUTRAL,United States
+Deloitte,TWITTER,lexie_giveaways,70547,Twitter Update,121,48,NEUTRAL,Dominica
+PWC,TWITTER,vechainofficial,428778,Twitter Update,566,2011,NEUTRAL,Singapore
+Deloitte,TWITTER,swisscryptoblo1,196,Twitter Update,0,0,NEUTRAL,Switzerland
+Deloitte,TWITTER,langwiser,314,Twitter Reply,0,0,NEUTRAL,United States
+EY,TWITTER,Micheal25601,211,Twitter Reply,0,0,NEUTRAL,South Africa
+EY,TWITTER,pbrody,9289,Twitter Update,2,0,NEUTRAL,United States
+Deloitte,TWITTER,s_kampakis,1286,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,coinmerce,2765,Twitter Update,0,0,NEUTRAL,Netherlands
+Deloitte,TWITTER,LeoCynosure,803,Twitter Mention,0,0,NEUTRAL,Singapore
+KPMG,TWITTER,1337Alchimist,61,Twitter Reply,0,0,NEUTRAL,Germany
+PWC,TWITTER,mightydutchman,1937,Twitter Mention,1,0,POSITIVE,Guinea
+Deloitte,TWITTER,onesal_studio,1862,Twitter Mention,8,39,POSITIVE,Japan
+Deloitte,TWITTER,cryptocoinboom,156,Twitter Update,2,0,NEUTRAL,United States
+PWC,TWITTER,GatsiosT,1193,Twitter Reply,2,17,NEUTRAL,Estonia
+PWC,TWITTER,CreatingValuab1,572,Twitter Update,1,1,NEUTRAL,Tonga
+Deloitte,TWITTER,LimeChainHQ,1872,Twitter Mention,1,1,NEUTRAL,United Kingdom
+Deloitte,TWITTER,CryptoBuzz_Blog,674,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,S_Edalati,2288,Twitter Update,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,POSITIVE,United States
+PWC,TWITTER,thekingdom,2279,Twitter Mention,2,3,NEUTRAL,United States
+PWC,TWITTER,DJ_Sylvain,19562,Twitter Reply,0,0,NEUTRAL,Slovenia
+PWC,TWITTER,Seb_Aguanno,2613,Twitter Update,0,0,NEUTRAL,Canada
+KPMG,TWITTER,SocialTMantra,10193,Twitter Mention,0,0,NEUTRAL,United States
+PWC,TWITTER,CreatingValuab1,572,Twitter Update,2,7,NEUTRAL,Tonga
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+KPMG,TWITTER,PaulUpla,92,Twitter Reply,0,0,NEUTRAL,Nigeria
+Deloitte,TWITTER,CryptoXha,13490,Twitter Update,113,26,NEUTRAL,France
+PWC,TWITTER,CryptoVetXRP,2305,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,smartvalorinc,5633,Twitter Update,1,2,NEUTRAL,Switzerland
+Deloitte,TWITTER,ysagives,28165,Twitter Update,108,33,NEUTRAL,Belarus
+KPMG,TWITTER,BitcoinPowerGir,3455,Twitter Update,0,0,NEUTRAL,Venezuela
+Deloitte,TWITTER,PanPeterS5,1083,Twitter Reply,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,chugives,14635,Twitter Update,19,3,NEUTRAL,Belarus
+Deloitte,TWITTER,SuriyaSubraman,5231,Twitter Update,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,blockdropspod,117,Twitter Reply,0,0,NEUTRAL,Brazil
+Deloitte,TWITTER,TheLatestBlock,471,Twitter Mention,2,1,NEUTRAL,United States
+Deloitte,TWITTER,davidpremier,174,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,S_Edalati,2288,Twitter Update,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,CeeDy6Oficial,102,Twitter Reply,0,0,NEUTRAL,Portugal
+PWC,TWITTER,Ashish_Rkitekt,106,Twitter Mention,1,9,NEUTRAL,India
+Deloitte,TWITTER,Tohsnoom_,25480,Twitter Reply,0,0,NEUTRAL,United States
+PWC,TWITTER,HazelRuers,125,Twitter Update,0,0,NEUTRAL,United Kingdom
+PWC,TWITTER,vechainvu,11206,Twitter Update,14,106,NEUTRAL,United States
+PWC,TWITTER,ArtistVechain,2762,Twitter Mention,2,11,NEUTRAL,United States
+Deloitte,TWITTER,Numbrs,10755,Twitter Mention,0,0,NEUTRAL,Switzerland
+PWC,TWITTER,jasonrockwood,20818,Twitter Update,273,1019,NEUTRAL,United States
+PWC,TWITTER,pathway2wisdom,104,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,SteveWrightBD,374,Twitter Mention,1,0,NEUTRAL,United Kingdom
+PWC,TWITTER,cradopt,180,Twitter Update,0,0,POSITIVE,United Kingdom
+PWC,TWITTER,Crypto_hussler,104,Twitter Mention,1,0,NEUTRAL,United Kingdom
+PWC,TWITTER,capitalist_sd,7597,Twitter Update,53,266,NEUTRAL,Indonesia
+PWC,TWITTER,mrsssully14,745,Twitter Mention,2,2,NEUTRAL,United Kingdom
+PWC,TWITTER,isoosi,3884,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,EdwardStencil,1289,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,vechainvu,11206,Twitter Update,59,307,POSITIVE,United States
+PWC,TWITTER,flushwithcaaash,559,Twitter Update,0,0,POSITIVE,United States
+Deloitte,TWITTER,marksilver00,1159,Twitter Update,1,0,NEUTRAL,United States
+EY,TWITTER,pbrody,9289,Twitter Update,1,0,NEUTRAL,United States
+Deloitte,TWITTER,DacxiGlobal,1540,Twitter Mention,0,0,NEUTRAL,Singapore
+PWC,TWITTER,Tanmedia,224,Twitter Reply,0,0,NEUTRAL,Vietnam
+PWC,TWITTER,ajb338,1796,Twitter Mention,0,0,NEUTRAL,United Kingdom
+KPMG,TWITTER,Maxxxximillion,249,Twitter Update,0,0,NEUTRAL,Germany
+PWC,TWITTER,MartinCowiePwC,663,Twitter Mention,0,0,NEUTRAL,United Kingdom
+KPMG,TWITTER,FxBookLTTG,776,Twitter Update,0,0,NEUTRAL,Estonia
+KPMG,TWITTER,navidnassiri,4429,Twitter Update,0,0,NEUTRAL,United States
+KPMG,TWITTER,dumbwire,29104,Twitter Update,0,0,NEUTRAL,United States
+KPMG,TWITTER,4StateNews,83,Twitter Update,0,0,NEUTRAL,United States
+KPMG,TWITTER,CryptoBuzz_Blog,674,Twitter Update,0,0,NEUTRAL,United Kingdom
+KPMG,TWITTER,davidpremier,174,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,vdlrios,2143,Twitter Mention,0,0,NEUTRAL,Spain
+Deloitte,TWITTER,CryptoJuan__,420,Twitter Update,1,1,NEUTRAL,El Salvador
+EY,TWITTER,poapxyz,16182,Twitter Mention,4,24,POSITIVE,United States
+Deloitte,TWITTER,symbridge,115,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,ReadDailyCoin,5704,Twitter Update,1,3,NEUTRAL,Switzerland
+Deloitte,TWITTER,bitbrokersinc,3114,Twitter Update,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,biedexmarkets,3903,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,AssetOpk,147,Twitter Update,0,0,NEUTRAL,Switzerland
+Deloitte,TWITTER,Etheriers,872,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,0gorki,222,Twitter Mention,0,0,POSITIVE,Germany
+KPMG,TWITTER,PanPeterS5,1083,Twitter Reply,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,pbrody,9289,Twitter Mention,4,21,NEUTRAL,United States
+EY,TWITTER,EthfinanceR,2318,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,lucky_rikky,1975,Twitter Reply,0,0,NEUTRAL,Togo
+EY,TWITTER,Blockchance_,1946,Twitter Mention,0,0,POSITIVE,Germany
+EY,TWITTER,PhilippMattheis,3133,Twitter Update,9,75,NEUTRAL,China
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,Finance_Flo,107,Twitter Update,0,0,NEUTRAL,Austria
+PWC,TWITTER,Fendy_NFTworld,388,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,smmirza1122,360,Twitter Mention,0,0,POSITIVE,United States
+Deloitte,TWITTER,CashBowieLee,17233,Twitter Reply,3,9,NEUTRAL,United States
+Deloitte,TWITTER,bazaartimes,1133,Twitter Update,0,0,POSITIVE,Turkey
+PWC,TWITTER,Fendy_NFTworld,388,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,mirko_ross,15103,Twitter Reply,0,0,NEUTRAL,Germany
+PWC,TWITTER,PBWSummit,4124,Twitter Mention,0,0,NEUTRAL,France
+Deloitte,TWITTER,cynthiawmiller,3223,Twitter Mention,0,0,POSITIVE,United Kingdom
+EY,TWITTER,estescio,692,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,tomlefevre,109,Twitter Mention,0,0,NEGATIVE,United States
+Deloitte,TWITTER,jamesrecruits,332,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,ScottBVS,16305,Twitter Mention,3,5,NEGATIVE,United States
+KPMG,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+KPMG,TWITTER,mattotto1,84,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,paje_c2i,1336,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,pbrody,9289,Twitter Update,2,3,NEUTRAL,United States
+Deloitte,TWITTER,JohannesBekker,253,Twitter Update,0,0,NEUTRAL,Germany
+Deloitte,TWITTER,Dbriefsap,215,Twitter Update,0,0,NEUTRAL,Philippines
+PWC,TWITTER,HKUFinTech,1163,Twitter Update,0,0,NEUTRAL,Hong Kong
+EY,TWITTER,librehash,4109,Twitter Reply,0,0,NEUTRAL,United States
+PWC,TWITTER,cryptocoinboom,156,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,clinton_cunning,441,Twitter Update,0,0,NEUTRAL,Australia
+Deloitte,TWITTER,Musolek,2394,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,TinaSchirr,556,Twitter Mention,2,2,NEUTRAL,New Zealand
+Deloitte,TWITTER,ShelbyGosling,1641,Twitter Update,0,0,NEUTRAL,Switzerland
+EY,TWITTER,khadijakhartit,135,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,NotorosDLT,891,Twitter Mention,5,13,NEUTRAL,United States
+Deloitte,TWITTER,DobbsKatelyn,253,Twitter Mention,1,0,NEUTRAL,Australia
+Deloitte,TWITTER,SheilaFaheyB,266,Twitter Reply,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,NotorosDLT,891,Twitter Mention,1,1,NEUTRAL,United States
+Deloitte,TWITTER,TokenizeXchange,2835,Twitter Update,0,0,NEUTRAL,Singapore
+PWC,TWITTER,Apatris_inc,685,Twitter Update,0,0,NEUTRAL,Russia
+EY,TWITTER,pbrody,9289,Twitter Mention,2,2,NEUTRAL,United States
+Deloitte,TWITTER,In21codewetrust,107,Twitter Reply,0,0,NEUTRAL,Italy
+Deloitte,TWITTER,DiDimessage,833,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,DDossAttack,170,Twitter Update,0,0,POSITIVE,United States
+Deloitte,TWITTER,SarsonFunds,5421,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Openskies13,370,Twitter Update,0,0,NEUTRAL,Australia
+PWC,TWITTER,Fendy_NFTworld,388,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,vnx_io,1622,Twitter Mention,0,0,POSITIVE,Luxembourg
+Deloitte,TWITTER,TheBristolPist1,416,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,FinBites_in,207,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,shyamvaran,4366,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,rajeshhublikar,137,Twitter Mention,0,0,NEUTRAL,India
+Deloitte,TWITTER,SiouxCityCrypto,138,Twitter Mention,1,0,NEUTRAL,United States
+Deloitte,TWITTER,S_Edalati,2288,Twitter Update,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,Nohemi2621,2583,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,DerekTMcKinney,10394,Twitter Update,0,0,NEUTRAL,Bosnia and Herzegovina
+Deloitte,TWITTER,dumbwire,29103,Twitter Update,0,0,NEUTRAL,United States
+KPMG,TWITTER,BitCaribe,259,Twitter Update,0,0,NEUTRAL,Curacao
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,Redroadmaster,1985,Twitter Mention,0,0,NEUTRAL,Thailand
+EY,TWITTER,SteveatSynonym,695,Twitter Update,0,0,POSITIVE,United Kingdom
+PWC,TWITTER,HarryAlford3,5293,Twitter Update,1,3,NEUTRAL,United States
+KPMG,TWITTER,AlephBlog,13204,Twitter Update,0,3,NEUTRAL,United States
+Deloitte,TWITTER,StephenStonberg,4911,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,heydaballoti,578,Twitter Update,0,0,NEUTRAL,Pakistan
+PWC,TWITTER,KeithOlson_,475,Twitter Reply,0,0,NEUTRAL,United States
+PWC,TWITTER,BkingDan,2083,Twitter Reply,0,0,NEUTRAL,United States
+PWC,TWITTER,KenwoodCapital,385,Twitter Update,0,0,NEUTRAL,Slovenia
+PWC,TWITTER,cryptotothemoo1,2269,Twitter Mention,0,0,NEUTRAL,United Kingdom
+PWC,TWITTER,ChrisH232,289,Twitter Reply,0,0,NEUTRAL,United Kingdom
+PWC,TWITTER,Cointelegraph,1212857,Twitter Mention,29,111,NEUTRAL,United States
+Deloitte,TWITTER,CoffeTechnology,6426,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,LeoCynosure,803,Twitter Mention,0,0,NEUTRAL,Singapore
+Deloitte,TWITTER,graceletho5,188,Twitter Reply,0,0,NEUTRAL,South Africa
+Deloitte,TWITTER,Securitize,10267,Twitter Mention,1,4,NEUTRAL,United States
+Deloitte,TWITTER,Blogs_Kenya,14706,Twitter Mention,0,0,NEUTRAL,Kenya
+PWC,TWITTER,1Blockchaintech,309,Twitter Reply,0,0,NEUTRAL,United Kingdom
+PWC,TWITTER,BlackFort_Tech,320,Twitter Update,0,0,NEUTRAL,Estonia
+Deloitte,TWITTER,thechousenone,344,Twitter Update,3,2,NEUTRAL,United States
+Deloitte,TWITTER,raopreetam_,455,Twitter Update,0,0,NEUTRAL,India
+EY,TWITTER,jacobotoll,919,Twitter Reply,10,29,NEUTRAL,Austria
+Deloitte,TWITTER,cmassa1,290,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,pbrody,9289,Twitter Update,2,24,NEUTRAL,United States
+Deloitte,TWITTER,James_Finxflo,2152,Twitter Mention,1,3,NEUTRAL,Singapore
+KPMG,TWITTER,Quant_111,4135,Twitter Update,8,45,POSITIVE,Estonia
+Deloitte,TWITTER,Quant_111,4136,Twitter Update,8,45,POSITIVE,Estonia
+Deloitte,TWITTER,davidpremier,174,Twitter Update,0,0,NEUTRAL,India
+PWC,TWITTER,sarfraz82749902,144,Twitter Mention,0,0,NEUTRAL,India
+EY,TWITTER,sarfraz82749902,144,Twitter Mention,0,0,NEUTRAL,India
+Deloitte,TWITTER,sarfraz82749902,144,Twitter Mention,0,0,NEUTRAL,India
+Deloitte,TWITTER,ChanakyaJi,164,Twitter Update,0,0,NEUTRAL,Norway
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,BitcoinKE,5195,Twitter Mention,0,0,NEUTRAL,Kenya
+Deloitte,TWITTER,Bitcoin_Win,11878,Twitter Update,0,0,NEUTRAL,Japan
+Deloitte,TWITTER,Mackintosh1971,844,Twitter Update,3,2,NEUTRAL,Spain
+Deloitte,TWITTER,bitpanda,45193,Twitter Reply,4,11,NEUTRAL,Austria
+Deloitte,TWITTER,daviddoughty,70715,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,daviddoughty,70715,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,LeoCynosure,803,Twitter Mention,0,0,NEUTRAL,Singapore
+Deloitte,TWITTER,PaulSovrano,1008,Twitter Reply,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,Money_JS2,220,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,DougPuckett7,138,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,bulldogholmes,10072,Twitter Update,3,13,NEUTRAL,United States
+Deloitte,TWITTER,HHotelConsult,6514,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,dangun127,409,Twitter Mention,0,0,NEUTRAL,United States
+KPMG,TWITTER,_markdavies22,916,Twitter Reply,0,0,NEUTRAL,Canada
+KPMG,TWITTER,JoeBailitz,383,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,PedroRLopezGar1,717,Twitter Update,0,0,NEUTRAL,Spain
+Deloitte,TWITTER,Jyotikumari2000,143,Twitter Update,0,0,NEUTRAL,India
+PWC,TWITTER,afh00d,465,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,FluidChains,386,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,bcnsocialnews,500,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,MedicalQuack,9109,Twitter Update,0,0,POSITIVE,United States
+PWC,TWITTER,Ronald_vanLoon,252228,Twitter Mention,11,10,NEUTRAL,Netherlands
+Deloitte,TWITTER,brockpierce,73236,Twitter Mention,3,11,NEUTRAL,Puerto Rico
+Deloitte,TWITTER,thoughtland,29654,Twitter Update,1,1,NEUTRAL,United Kingdom
+Deloitte,TWITTER,PMProuk,1557,Twitter Update,0,0,NEUTRAL,Singapore
+PWC,TWITTER,_amitm,2378,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,daviddoughty,70715,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,daviddoughty,70715,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,LeoCynosure,803,Twitter Mention,0,0,NEUTRAL,Singapore
+Deloitte,TWITTER,Blockchance_,1946,Twitter Update,1,0,NEUTRAL,Germany
+Deloitte,TWITTER,jaiflicker,185,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,akhileswar25,169,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,CryptoChuckT,1540,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Bob_Lyons,2493,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,sweetsinner3,16228,Twitter Update,0,0,NEUTRAL,Ireland
+Deloitte,TWITTER,ericmjackson,13185,Twitter Update,5,18,NEUTRAL,United States
+Deloitte,TWITTER,CryptoDragonX,556,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,dkennedyblog,1576,Twitter Mention,0,1,NEUTRAL,United States
+Deloitte,TWITTER,stormestreet,169,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,camilo_olaya_g,250,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,brentweetss,548,Twitter Reply,0,0,NEUTRAL,United States
+PWC,TWITTER,thekingdom,2279,Twitter Mention,2,3,NEUTRAL,United States
+Deloitte,TWITTER,brentweetss,548,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,rogdzz,230,Twitter Update,0,0,NEGATIVE,United States
+Deloitte,TWITTER,mattysats,8596,Twitter Mention,0,1,NEUTRAL,United States
+Deloitte,TWITTER,kwerb,29328,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,kwerb,29328,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,symbridge,115,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,VikingXBT,15357,Twitter Update,2,7,NEGATIVE,United States
+KPMG,TWITTER,ET_Edge,4683,Twitter Reply,0,0,NEUTRAL,India
+EY,TWITTER,TARC2013,681,Twitter Mention,3,7,NEUTRAL,United Kingdom
+Deloitte,TWITTER,MainBloq,2466,Twitter Mention,2,3,NEUTRAL,United States
+EY,TWITTER,pbrody,9289,Twitter Mention,1,0,POSITIVE,United States
+EY,TWITTER,BCloudUK,7307,Twitter Mention,3,2,NEUTRAL,United Kingdom
+Deloitte,TWITTER,BCloudUK,7309,Twitter Mention,3,2,NEUTRAL,United Kingdom
+PWC,TWITTER,infovinity,175,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,pmbrsantos,3594,Twitter Update,1,2,NEUTRAL,Spain
+Deloitte,TWITTER,JesDiamondHands,128,Twitter Mention,0,0,POSITIVE,United States
+PWC,TWITTER,CV_Labs,4032,Twitter Mention,0,0,NEUTRAL,Switzerland
+Deloitte,TWITTER,FundsDLT,278,Twitter Mention,0,0,NEUTRAL,Luxembourg
+Deloitte,TWITTER,Cassiopeia_ltd,1114,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,Cledara,605,Twitter Mention,1,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,CRYPTO_hitman,125,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,BitcoinFanUsa,279,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,daviddoughty,70715,Twitter Mention,1,1,NEUTRAL,United Kingdom
+Deloitte,TWITTER,LeoCynosure,803,Twitter Mention,0,0,NEUTRAL,Singapore
+Deloitte,TWITTER,pompcoin,1526,Twitter Update,0,0,NEUTRAL,United States
+KPMG,TWITTER,sarang143u,558,Twitter Update,0,0,POSITIVE,India
+EY,TWITTER,RedfernLegal,328,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,RedfernLegal,328,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,0rcablue,478,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,advoss12,418,Twitter Update,0,0,NEUTRAL,Togo
+Deloitte,TWITTER,ChanakyaJi,164,Twitter Update,0,0,NEUTRAL,Norway
+Deloitte,TWITTER,James_Finxflo,2152,Twitter Update,4,29,NEUTRAL,Singapore
+Deloitte,TWITTER,ExBulletinUk,468,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,aidtechnology,2720,Twitter Update,3,8,NEUTRAL,Singapore
+KPMG,TWITTER,CoffeTechnology,6426,Twitter Mention,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,kryptoMan1ac,1254,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Odds75,2006,Twitter Mention,0,0,POSITIVE,Australia
+Deloitte,TWITTER,Bacco1977Dublin,767,Twitter Update,28,144,NEUTRAL,Ireland
+Deloitte,TWITTER,rom1_pellerin,3666,Twitter Mention,7,29,NEUTRAL,United States
+Deloitte,TWITTER,karimraffa,2538,Twitter Mention,0,0,NEUTRAL,Singapore
+Deloitte,TWITTER,jerryhodls,1000,Twitter Update,0,0,NEUTRAL,United States
+KPMG,TWITTER,Khulood_Almani,3352,Twitter Mention,13,11,POSITIVE,Saudi Arabia
+Deloitte,TWITTER,PHILLYfranGUY,121,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,crypto_AfricaNG,404,Twitter Update,0,0,NEUTRAL,South Africa
+Deloitte,TWITTER,crypto_AfricaNG,404,Twitter Update,0,0,NEUTRAL,South Africa
+Deloitte,TWITTER,Equite_io,175,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,ForefrontComms,852,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,inmybag111,287,Twitter Mention,0,0,NEUTRAL,United States
+EY,TWITTER,curiousmalte,233,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,Bitcoineconprof,324,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,jasprice,1036,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,assets_group,904,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,fs_insight,7916,Twitter Update,2,4,NEUTRAL,United States
+Deloitte,TWITTER,theluckyman,5573,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,DfWplay,1085,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Tokenn,783,Twitter Update,0,0,NEUTRAL,Canada
+KPMG,TWITTER,CampDadCam,1096,Twitter Update,2,12,NEUTRAL,United States
+PWC,TWITTER,CampDadCam,1096,Twitter Update,2,12,NEUTRAL,United States
+Deloitte,TWITTER,CampDadCam,1096,Twitter Update,2,12,NEUTRAL,United States
+Deloitte,TWITTER,AscendEX_Global,144897,Twitter Update,13,26,NEUTRAL,Singapore
+Deloitte,TWITTER,QNTistheKEY,1527,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,Machiavellecon,1941,Twitter Reply,0,0,NEUTRAL,South Africa
+Deloitte,TWITTER,DAR_crypto,2846,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,ramseyhajj,240,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,MikeNashTech,595,Twitter Reply,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,BitcoinFanUsa,279,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,NguFyi,173,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,vinyarb,1596,Twitter Update,0,0,NEUTRAL,Singapore
+Deloitte,TWITTER,xceptthejoker,156,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,VailshireCap,19257,Twitter Update,4,27,NEUTRAL,United States
+Deloitte,TWITTER,mcblasei,285,Twitter Update,0,0,NEUTRAL,Spain
+Deloitte,TWITTER,RahulJagtiani,1160,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,mhis_thelma,627,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,mileseducation,1371,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,bigmarketreport,207,Twitter Update,0,0,NEGATIVE,United States
+Deloitte,TWITTER,IrunSmokey,1409,Twitter Update,0,0,NEUTRAL,South Africa
+Deloitte,TWITTER,bitinning,1827,Twitter Update,3,19,NEUTRAL,India
+Deloitte,TWITTER,frequentia,2344,Twitter Update,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,nafclark,179,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,s_kampakis,1286,Twitter Update,2,1,NEUTRAL,United Kingdom
+KPMG,TWITTER,CTMfile,1560,Twitter Mention,4,1,NEUTRAL,United Kingdom
+PWC,TWITTER,ajb338,1796,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,CorpGovUK,12520,Twitter Mention,2,1,NEUTRAL,United Kingdom
+Deloitte,TWITTER,nafisalam,1627,Twitter Mention,1,1,NEUTRAL,Malaysia
+Deloitte,TWITTER,RealShowstopper,3768,Twitter Update,0,1,NEGATIVE,Netherlands
+Deloitte,TWITTER,My_CryptoNews,252,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,vdlrios,2143,Twitter Mention,0,0,NEUTRAL,Spain
+PWC,TWITTER,simonjwhite44,376,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,MyTVchain,1718,Twitter Mention,0,0,NEUTRAL,France
+PWC,TWITTER,lpalazzu,471,Twitter Mention,0,0,NEUTRAL,United Kingdom
+PWC,TWITTER,LeeWaterson,1014,Twitter Mention,2,2,NEUTRAL,United Kingdom
+Deloitte,TWITTER,ETBFSI,1356,Twitter Mention,0,0,NEUTRAL,India
+Deloitte,TWITTER,BTCstJournal,10769,Twitter Update,1,2,NEUTRAL,United States
+Deloitte,TWITTER,danny22245,5871,Twitter Update,1,1,NEUTRAL,United Kingdom
+Deloitte,TWITTER,albertogaruccio,7206,Twitter Mention,4,9,NEUTRAL,Italy
+Deloitte,TWITTER,Vincentlauth,2825,Twitter Update,0,0,POSITIVE,Hong Kong
+Deloitte,TWITTER,Nicolecrypty,242,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,ElectrikTwo,197,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,AttardePramod,819,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,rich_vergara,304,Twitter Update,0,0,NEUTRAL,Estonia
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,CreatingValuab1,572,Twitter Update,1,1,NEUTRAL,Tonga
+Deloitte,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,caserogroup,269,Twitter Update,0,0,NEUTRAL,Puerto Rico
+Deloitte,TWITTER,LatestcryptoN,331,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,XRPenthusiast1,579,Twitter Update,1,2,NEUTRAL,United States
+Deloitte,TWITTER,dumbwire,29103,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,crypto__mak,11265,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,ramseyhajj,240,Twitter Update,1,0,NEUTRAL,United States
+Deloitte,TWITTER,RuleXRP,85213,Twitter Mention,13,60,NEUTRAL,United States
+PWC,TWITTER,thekingdom,2279,Twitter Mention,0,0,NEUTRAL,United States
+PWC,TWITTER,BitcoinSpike,466,Twitter Mention,3,3,NEUTRAL,United States
+PWC,TWITTER,BitcoinSpike,466,Twitter Mention,3,6,NEUTRAL,United States
+Deloitte,TWITTER,Nicolecrypty,242,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,anthonygatta,109,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,uxsequence,1342,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,EdRodPOV,615,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Quant_111,4136,Twitter Update,5,51,NEUTRAL,Estonia
+Deloitte,TWITTER,TrustologyIO,1307,Twitter Mention,1,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,eisenreich,19471,Twitter Mention,48,224,NEUTRAL,United States
+Deloitte,TWITTER,bart_86,109,Twitter Mention,0,0,NEUTRAL,Germany
+Deloitte,TWITTER,timewisejobs,4151,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,BruceLuy,429,Twitter Update,1,3,NEUTRAL,Singapore
+Deloitte,TWITTER,sarang143u,558,Twitter Update,1,0,NEUTRAL,India
+Deloitte,TWITTER,kachelriess,1212,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,salahkhawaja,6238,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,webnowcompany,5877,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,webnowcompany,5877,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,Society4CorpGov,4184,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,nowonbitcoin,4293,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,kelmanlawcrypto,1180,Twitter Mention,4,5,NEUTRAL,United States
+Deloitte,TWITTER,BCBcrypto,1446,Twitter Mention,1,1,NEUTRAL,United Kingdom
+Deloitte,TWITTER,CryptoManiacs10,497,Twitter Update,0,0,NEUTRAL,Netherlands
+Deloitte,TWITTER,EspreMacchiato,198,Twitter Reply,0,0,NEUTRAL,France
+Deloitte,TWITTER,amdespotopoulou,163,Twitter Mention,1,0,NEUTRAL,Greece
+Deloitte,TWITTER,raphschoen,1174,Twitter Mention,0,0,NEUTRAL,Austria
+Deloitte,TWITTER,InstaSwap_io,7896,Twitter Update,1,0,NEUTRAL,Greece
+Deloitte,TWITTER,pdiomede,285,Twitter Update,1,1,NEUTRAL,Italy
+Deloitte,TWITTER,BlockDownConf,4710,Twitter Mention,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,feed_stocks,3353,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,BeOneFinancial,192,Twitter Mention,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,Forkast_News,11442,Twitter Update,1,4,NEUTRAL,Hong Kong
+Deloitte,TWITTER,TEN31Bank,2754,Twitter Update,5,21,NEUTRAL,Germany
+Deloitte,TWITTER,DavidDTawil,4927,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,BTCstJournal,10769,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,MatthewLINY,12291,Twitter Mention,32,109,NEUTRAL,Angola
+EY,TWITTER,MonicasSinger,1766,Twitter Mention,0,0,NEUTRAL,South Africa
+KPMG,TWITTER,MonicasSinger,1766,Twitter Mention,0,0,NEUTRAL,South Africa
+PWC,TWITTER,MonicasSinger,1766,Twitter Mention,0,0,NEUTRAL,South Africa
+Deloitte,TWITTER,MonicasSinger,1766,Twitter Mention,0,0,NEUTRAL,South Africa
+KPMG,TWITTER,cath_phil,233,Twitter Update,0,0,NEUTRAL,France
+Deloitte,TWITTER,RssBit,1613,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,coinspeaker,6333,Twitter Update,0,0,NEUTRAL,Malta
+Deloitte,TWITTER,EnrichedFeed,1374,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,debimr75,3066,Twitter Mention,0,0,NEUTRAL,India
+Deloitte,TWITTER,nafclark,179,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Passion_4Tech,12851,Twitter Mention,1,0,NEUTRAL,United States
+Deloitte,TWITTER,nf4mation,35490,Twitter Update,0,1,NEUTRAL,Seychelles
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,MoghelC,192,Twitter Update,2,2,NEUTRAL,South Africa
+Deloitte,TWITTER,crypto__mak,11265,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,val5linx,13676,Twitter Update,14,38,NEUTRAL,United States
+Deloitte,TWITTER,ckmnewsfeed,293,Twitter Mention,0,0,NEUTRAL,Seychelles
+Deloitte,TWITTER,Shmusawar,152,Twitter Update,0,0,NEUTRAL,Pakistan
+Deloitte,TWITTER,MichaelGeike,533,Twitter Mention,2,9,NEUTRAL,Germany
+Deloitte,TWITTER,cryptotothemoo1,2269,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,ATL_EN,5313,Twitter Update,9,14,NEUTRAL,United States
+Deloitte,TWITTER,CryptoNews_21,39954,Twitter Update,1,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,dumbwire,29103,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,pourlafranc,123,Twitter Update,1,5,NEUTRAL,France
+Deloitte,TWITTER,Juchtervbergen,1788,Twitter Update,0,0,NEUTRAL,Netherlands
+Deloitte,TWITTER,StrawberryNG,1924,Twitter Update,0,0,NEUTRAL,Nigeria
+Deloitte,TWITTER,Cointelegraph,1212900,Twitter Update,28,103,NEUTRAL,United States
+EY,TWITTER,ismahelios,1837,Twitter Reply,0,0,NEUTRAL,Papua New Guinea
+Deloitte,TWITTER,agowa338,136,Twitter Reply,1,0,NEGATIVE,Germany
+Deloitte,TWITTER,ChananSteinhart,967,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,bitinning,1827,Twitter Update,1,3,NEUTRAL,India
+Deloitte,TWITTER,albertogaruccio,7206,Twitter Mention,2,3,NEUTRAL,Italy
+Deloitte,TWITTER,mjeng54,2934,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,KaiMeinke,2131,Twitter Reply,0,0,NEUTRAL,Germany
+Deloitte,TWITTER,KaiMeinke,2131,Twitter Mention,0,0,NEUTRAL,Germany
+Deloitte,TWITTER,richardturrin,3533,Twitter Reply,0,0,POSITIVE,China
+Deloitte,TWITTER,marcelamdax,19758,Twitter Update,2,10,NEUTRAL,Netherlands
+Deloitte,TWITTER,pompcoin,1526,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,naypyidaw,36602,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,MonetaryWonk,3316,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,thekingdom,2279,Twitter Mention,6,9,NEUTRAL,United States
+Deloitte,TWITTER,SPOONSOPUER,4408,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,token_minds,1125,Twitter Update,0,0,NEUTRAL,Singapore
+Deloitte,TWITTER,leon_texas,7526,Twitter Update,18,61,NEUTRAL,United States
+Deloitte,TWITTER,Mark__Alien,869,Twitter Mention,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,Johnfurie2,505,Twitter Reply,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,LunarCRUSH,134890,Twitter Mention,20,45,NEUTRAL,United States
+Deloitte,TWITTER,HuxleyLord,225,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,bollyinsidenews,338,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Afo_Ogunnaike,568,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,ICEH_Invest,669,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,Rumerule,800,Twitter Update,1,1,NEUTRAL,Nigeria
+Deloitte,TWITTER,basilio_,18197,Twitter Update,0,0,NEUTRAL,Italy
+Deloitte,TWITTER,RuleXRP,85213,Twitter Update,49,162,NEUTRAL,United States
+KPMG,TWITTER,wadekwright,3516,Twitter Update,2,0,NEUTRAL,Australia
+Deloitte,TWITTER,jrgpadilla,294,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,webnowcompany,5877,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,GKBoris,18020,Twitter Update,3,34,NEUTRAL,Japan
+Deloitte,TWITTER,paulbuitink,9545,Twitter Update,15,83,NEGATIVE,Netherlands
+Deloitte,TWITTER,JarronJackson4,483,Twitter Mention,0,0,POSITIVE,United States
+Deloitte,TWITTER,PriapusIQ,32186,Twitter Update,2,4,NEUTRAL,Tonga
+Deloitte,TWITTER,globaliqx,12180,Twitter Mention,23,29,NEUTRAL,Canada
+Deloitte,TWITTER,Califas619,1743,Twitter Update,1,4,NEUTRAL,Colombia
+Deloitte,TWITTER,zabisara,219,Twitter Update,0,0,NEUTRAL,Comoros
+Deloitte,TWITTER,feed_stocks,3353,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,AlexandraB66,1486,Twitter Update,0,0,NEUTRAL,Netherlands
+Deloitte,TWITTER,RuleXRP,85213,Twitter Mention,6,38,NEUTRAL,United States
+Deloitte,TWITTER,niftynaut,7140,Twitter Mention,2,4,NEUTRAL,United Kingdom
+Deloitte,TWITTER,pabloantoniob18,113,Twitter Mention,0,0,NEUTRAL,Mexico
+Deloitte,TWITTER,vagalol,228,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,My_CryptoNews,252,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,TonyStackSats,452,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,webnowcompany,5877,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,saaltechs,249,Twitter Reply,1,1,NEUTRAL,Nigeria
+Deloitte,TWITTER,saaltechs,249,Twitter Reply,0,0,NEUTRAL,Nigeria
+KPMG,TWITTER,iamChuckRussell,20729,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,TradeMoneta,126,Twitter Update,1,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,lukas_chmela,1106,Twitter Update,1,5,NEUTRAL,Czech Republic
+Deloitte,TWITTER,CenkBabaeren,23634,Twitter Update,0,0,NEUTRAL,Turkey
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,nafisalam,1627,Twitter Mention,1,0,NEUTRAL,Malaysia
+Deloitte,TWITTER,nafclark,179,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,nafclark,179,Twitter Update,0,0,NEUTRAL,United States
+EY,TWITTER,curiousmalte,233,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,digitalkecom,11800,Twitter Mention,0,0,NEUTRAL,Kenya
+Deloitte,TWITTER,bitprimeNZ,926,Twitter Update,0,0,NEUTRAL,New Zealand
+Deloitte,TWITTER,bhagirathl,604,Twitter Mention,0,0,NEUTRAL,India
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+KPMG,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+KPMG,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,BrianFlah,177,Twitter Mention,0,0,NEUTRAL,United States
+KPMG,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,Crypto_Wildwest,370,Twitter Reply,0,0,NEUTRAL,India
+Deloitte,TWITTER,Spartacus0523,135,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,nowonbitcoin,4293,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,keevowallet,6040,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,prosmoon,3122,Twitter Mention,2,1,NEUTRAL,United Kingdom
+Deloitte,TWITTER,AntoniZolciak,1522,Twitter Mention,3,12,NEUTRAL,Poland
+Deloitte,TWITTER,BitcoinInfoVIP1,392,Twitter Update,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,dumbwire,29103,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,BlockNewb,3043,Twitter Mention,43,145,NEUTRAL,United States
+KPMG,TWITTER,cryptocoinboom,156,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,nafclark,179,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,richardturrin,3533,Twitter Mention,8,16,NEUTRAL,China
+Deloitte,TWITTER,BlockchainAUS,15342,Twitter Update,1,0,NEUTRAL,Australia
+PWC,TWITTER,BitcoinSpike,466,Twitter Mention,2,1,POSITIVE,United States
+Deloitte,TWITTER,bitpushnews,2101,Twitter Update,0,0,NEUTRAL,United States
+PWC,TWITTER,dancroghan,351,Twitter Update,0,0,NEUTRAL,United States
+KPMG,TWITTER,dschultz_16,21,Twitter Mention,0,0,NEUTRAL,United States
+PWC,TWITTER,thekingdom,2279,Twitter Mention,1,1,NEUTRAL,United States
+KPMG,TWITTER,JoeBailitz,383,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Kaleido_io,3403,Twitter Mention,3,4,NEUTRAL,United States
+EY,TWITTER,Phvno_,174,Twitter Reply,0,0,NEUTRAL,India
+EY,TWITTER,TheCryptoLif7,11034,Twitter Mention,159,241,POSITIVE,Canada
+Deloitte,TWITTER,MindfrozenT,585,Twitter Update,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,gary_boddington,623,Twitter Update,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,highrewardcoin,903,Twitter Update,3,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,jameswester,7480,Twitter Reply,0,0,NEUTRAL,United States
+Deloitte,TWITTER,kuriharan,55328,Twitter Update,0,0,NEUTRAL,Japan
+EY,TWITTER,OnChainAlex,619,Twitter Mention,20,81,NEUTRAL,United States
+Deloitte,TWITTER,ReportsMarkets,337,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,sbmeunier,52493,Twitter Update,2,6,NEUTRAL,United States
+KPMG,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,richardturrin,3533,Twitter Reply,2,2,NEUTRAL,China
+PWC,TWITTER,globalcustodian,4883,Twitter Mention,4,6,NEUTRAL,United Kingdom
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+PWC,TWITTER,PwC_UK,100430,Twitter Mention,0,3,NEUTRAL,United Kingdom
+Deloitte,TWITTER,oluskayacan,3996,Twitter Mention,2,1,NEUTRAL,Belgium
+Deloitte,TWITTER,daviddoughty,70715,Twitter Mention,0,0,NEUTRAL,United Kingdom
+EY,TWITTER,SteveatSynonym,695,Twitter Update,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+KPMG,TWITTER,BizBlockchainHQ,7586,Twitter Mention,1,2,NEUTRAL,United States
+Deloitte,TWITTER,_Angel455,1765,Twitter Reply,0,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,Franklin_00001,694,Twitter Reply,0,0,NEUTRAL,United Kingdom
+PWC,TWITTER,c_scarpati,147,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,BetaMoroney,6020,Twitter Mention,14,21,NEUTRAL,Ireland
+Deloitte,TWITTER,S_Edalati,2288,Twitter Update,0,0,NEUTRAL,Canada
+Deloitte,TWITTER,DigitalChamber,19677,Twitter Update,2,6,NEUTRAL,United States
+KPMG,TWITTER,PanPeterS5,1083,Twitter Update,6,9,NEUTRAL,United Kingdom
+Deloitte,TWITTER,sharonp77,1207,Twitter Mention,0,0,NEUTRAL,United States
+PWC,TWITTER,Malik_Farooq_01,9936,Twitter Mention,6,22,NEUTRAL,Pakistan
+Deloitte,TWITTER,DigitalChamber,19677,Twitter Update,1,3,NEUTRAL,United States
+Deloitte,TWITTER,SystemsandTech,6396,Twitter Mention,1,4,NEUTRAL,United States
+PWC,TWITTER,hedgefunder01,1413,Twitter Reply,0,0,POSITIVE,Monaco
+PWC,TWITTER,MedicalQuack,9109,Twitter Update,0,0,POSITIVE,United States
+Deloitte,TWITTER,sharonp77,1207,Twitter Mention,0,0,NEUTRAL,United States
+Deloitte,TWITTER,sarang143u,558,Twitter Update,0,0,NEUTRAL,India
+Deloitte,TWITTER,DigitalChamber,19677,Twitter Mention,3,7,NEUTRAL,United States
+KPMG,TWITTER,paychant,1643,Twitter Update,3,14,NEUTRAL,South Africa
+Deloitte,TWITTER,S_Edalati,2288,Twitter Update,1,0,NEUTRAL,Canada
+KPMG,TWITTER,StreetsConsult,1384,Twitter Mention,2,0,NEUTRAL,United Kingdom
+Deloitte,TWITTER,GRAUSAIL,2756,Twitter Mention,0,0,NEUTRAL,United States
+KPMG,TWITTER,richardkimphd,3088,Twitter Update,4,0,NEUTRAL,South Korea
+KPMG,TWITTER,YuHelenYu,35261,Twitter Mention,6,5,NEUTRAL,United States
+KPMG,TWITTER,EQMIndexes,901,Twitter Mention,0,0,NEUTRAL,United States
+PWC,TWITTER,BitcoinSpike,466,Twitter Reply,0,0,NEUTRAL,United States
+PWC,TWITTER,thekingdom,2279,Twitter Mention,5,8,POSITIVE,United States
+KPMG,TWITTER,cryptocoinboom,156,Twitter Update,0,0,NEUTRAL,United States
+Deloitte,TWITTER,Central1_,3308,Twitter Mention,0,0,NEUTRAL,Canada
