@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydiaz2012&label=Profile%20views&color=0e75b6&style=flat" alt="jaydiaz2012" /> </p>
 
-- 🔭 I’m currently working on [K-Means](https://github.com/jaydiaz2012/practicum_case.studies)
+- 🔭 I’m currently working on [TensorFlow](https://github.com/jaydiaz2012/practicum_case.studies)
 
 - 🌱 I’m currently learning **Machine Learning, Unsupervised Learning, and Regression Models**
 
